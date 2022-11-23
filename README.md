@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: ...
+- Live Site URL: [NFT Preview Card Component By Earthyy](https://earthyy-nft-preview-card-component.netlify.app/)
 
 ## My process
 
